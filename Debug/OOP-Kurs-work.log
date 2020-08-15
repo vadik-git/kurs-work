@@ -1,0 +1,7 @@
+﻿  Exception.cpp
+c:\users\vadim\source\repos\oop-kurs-work\oop-kurs-work\library.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+c:\users\vadim\source\repos\oop-kurs-work\oop-kurs-work\library.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\vadim\source\repos\oop-kurs-work\oop-kurs-work\menu.h(185): warning C4715: Menu::menu: значение возвращается не при всех путях выполнения
+  OOP-Kurs-work.vcxproj -> C:\Users\Vadim\source\repos\OOP-Kurs-work\Debug\OOP-Kurs-work.exe
